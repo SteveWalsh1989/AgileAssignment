@@ -1,0 +1,26 @@
+/*
+
+Steve Walsh
+R00151053
+SDH3
+swalsh6@mycit.ie
+
+*/
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: yellow;
+}
+
+p {
+    margin-bottom: 40px;
+
+
+}
+
+ul {
+    list-style-type: circle;
+}
